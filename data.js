@@ -1,7 +1,7 @@
 // js/data.js — US University AI Policy Repository
 // Auto-generated from source data
 // Merged: 2026-04-14T08:26:23.561Z
-// Total universities: 452
+// Total universities: 453
 
 const universities = [
   {
@@ -60873,6 +60873,118 @@ const universities = [
     "policyCompleteness": 0,
     "hasPolicy": false,
     "domains": []
+  }
+,
+  {
+    "id": "university-of-seville",
+    "name": "University of Seville",
+    "lastVerified": "May 2026",
+    "state": "Andalusia",
+    "stateCode": "ES-AN",
+    "type": "public",
+    "website": "https://www.us.es",
+    "categories": {
+      "U1": {
+        "classification_name": "Coursework & Assignments",
+        "domain": "Teaching & Learning",
+        "summary": "The University of Seville guides students to use AI as a supplementary tool in coursework rather than a replacement for their own intellectual work. The university library guide advises students to follow instructor-specific rules per course and to acquire competencies, not merely outsource tasks. Presenting AI-generated work as entirely one's own without disclosure may constitute academic fraud.",
+        "evidence": "\"adquirir competencias (no solo conocimientos) mediante su uso como apoyo al aprendizaje, respetando siempre las recomendaciones del profesorado en cuanto a normas y l\u00edmites establecidos para el uso de IA en cada asignatura\" (guiasbus.us.es/iatrabajo)",
+        "sourceUrls": ["https://guiasbus.us.es/iatrabajo", "https://guiasbus.us.es/ia"],
+        "defined": true
+      },
+      "U2": {
+        "classification_name": "Examinations & Assessments",
+        "domain": "Teaching & Learning",
+        "summary": "The University of Seville library provides dedicated guidance on using Turnitin for AI detection in submitted academic work, including Spanish-language AI writing detection. The university initially prohibited AI tools in exams in 2023, treating their use as equivalent to plagiarism. Current policy places responsibility on faculty to establish per-course rules on AI use in assessments.",
+        "evidence": "\"Inteligencia artificial y Turnitin | Biblioteca Universidad de Sevilla\" — dedicated BUS page on AI detection in academic submissions (bib.us.es/humanidades/en/node/823)",
+        "sourceUrls": ["https://bib.us.es/humanidades/en/node/823"],
+        "defined": true
+      },
+      "U3": {
+        "classification_name": "Learning & Study Assistance",
+        "domain": "Teaching & Learning",
+        "summary": "The University of Seville operates an institutional AI portal (ia.us.es) that provides access to approved generative AI tools for the entire university community, including students. Available tools include Google Gemini, Microsoft Copilot Chat, and Notebook LM. The platform includes prompt banks organized by user role (students, teaching, research, management) and 1-minute tutorial guides to help students maximize the tools for learning.",
+        "evidence": "\"potenciar el uso \u00e9tico de las herramientas de IA entre estudiantes, docentes y personal no acad\u00e9mico\"; \"banco de prompts o instrucciones para obtener los mejores resultados de las distintas herramientas de IA generativa. Estas \u00f3rdenes se agrupan seg\u00fan las funciones de sus usuarios y abarcan tareas propias de la docencia, la investigaci\u00f3n, la gesti\u00f3n y los estudiantes\" (ia.us.es)",
+        "sourceUrls": ["https://ia.us.es/"],
+        "defined": true
+      },
+      "U4": {
+        "classification_name": "Code Generation & Programming",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U5": {
+        "classification_name": "Research Writing & Manuscript Preparation",
+        "domain": "Research",
+        "summary": "The University of Seville's library guide for academic work (guiasbus.us.es/iatrabajo) provides guidance on ethical AI use in thesis work (TFG/TFM). Students must declare AI use following the AID (Artificial Intelligence Disclosure) framework. The Faculty of Philosophy issued a dedicated guide for AI use in final thesis work in 2025. Presenting AI-generated content as one's own without disclosure may constitute academic fraud under the Student Disciplinary Regulations.",
+        "evidence": "\"Para garantizar la integridad acad\u00e9mica, la ACRL recomienda ir m\u00e1s all\u00e1 de una simple cita bibliogr\u00e1fica cuando se usa Inteligencia Artificial, sugiriendo a\u00f1adir un anexo al final del trabajo siguiendo el marco AID (Artificial Intelligence Disclosure)\" (guiasbus.us.es/iatrabajo/uso); \"Gu\u00eda sobre el uso de la Inteligencia Artificial en tu TFE de Filosof\u00eda\" (2025 guide, filosofia.us.es)",
+        "sourceUrls": ["https://guiasbus.us.es/iatrabajo/uso", "https://guiasbus.us.es/iatrabajo", "https://filosofia.us.es/sites/filosofia/files/contenido/estudiantes/TFE/Guia_Uso_IA_TFG_Filosofia%202025.pdf"],
+        "defined": true
+      },
+      "U6": {
+        "classification_name": "Research Data & Analysis",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U7": {
+        "classification_name": "Research Ethics & Integrity",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U8": {
+        "classification_name": "Disclosure & Attribution Requirements",
+        "domain": "Academic Integrity",
+        "summary": "The University of Seville requires students to declare AI use transparently in academic submissions, going beyond simple citation. The library guide recommends the AID (Artificial Intelligence Disclosure) framework, requiring an annex specifying: the tool name and version, the purpose, the prompts provided, and how the output was incorporated. This applies to all generative AI tools used in academic work.",
+        "evidence": "\"Para garantizar la integridad acad\u00e9mica, la ACRL recomienda ir m\u00e1s all\u00e1 de una simple cita bibliogr\u00e1fica cuando se usa Inteligencia Artificial, sugiriendo a\u00f1adir un anexo al final del trabajo siguiendo el marco AID (Artificial Intelligence Disclosure)\" incluyendo: herramienta(s) utilizada(s) (nombre y versi\u00f3n, ej: ChatGPT-4, DeepL, Grammarly); prop\u00f3sito (ej: brainstorming, correcci\u00f3n de estilo, traducci\u00f3n); instrucciones (prompts) dadas a la IA; c\u00f3mo se us\u00f3 el resultado (guiasbus.us.es/iatrabajo/uso)",
+        "sourceUrls": ["https://guiasbus.us.es/iatrabajo/uso", "https://guiasbus.us.es/ia"],
+        "defined": true
+      },
+      "U9": {
+        "classification_name": "Detection & Enforcement",
+        "domain": "Academic Integrity",
+        "summary": "The University of Seville uses Turnitin for plagiarism and AI content detection, including AI writing detection for Spanish language submissions. Academic fraud involving AI-generated content in TFE/TFG may constitute a serious or very serious offense under university disciplinary regulations, potentially resulting in suspension. When detected in evaluated work, faculty must record it in the official assessment report.",
+        "evidence": "\"Inteligencia artificial y Turnitin | Biblioteca Universidad de Sevilla\" (dedicated BUS page); \"cuando se detecta plagio u otras pr\u00e1cticas contrarias a la integridad acad\u00e9mica en un TFE por los miembros del tribunal evaluador, \u00e9ste deber\u00e1 quedar explicitado en el informe razonado que acompa\u00f1e a la calificaci\u00f3n de suspenso\" (search summaries from official US normativas)",
+        "sourceUrls": ["https://bib.us.es/humanidades/en/node/823"],
+        "defined": true
+      },
+      "U10": {
+        "classification_name": "Faculty & Staff Use",
+        "domain": "Institutional & Administrative",
+        "summary": "The University of Seville's AI portal (ia.us.es) is designed for the entire university community including faculty (docentes) and non-academic staff. The platform provides approved AI tools with prompt banks organized by teaching, research, and management functions. The US, in partnership with Google through its AI Chair, offers free training courses to strengthen faculty AI competencies for ethical and effective use in teaching, research, and daily management.",
+        "evidence": "\"potenciar el uso \u00e9tico de las herramientas de IA entre estudiantes, docentes y personal no acad\u00e9mico\"; \"cursos de formaci\u00f3n gratuitos para fortalecer competencias en IA y promover el uso \u00e9tico y eficaz de esta tecnolog\u00eda, con la intenci\u00f3n de impulsar la innovaci\u00f3n en la docencia, la investigaci\u00f3n y la gesti\u00f3n cotidiana\" (us.es/actualidad)",
+        "sourceUrls": ["https://ia.us.es/", "https://www.us.es/actualidad-de-la-us/inteligencia-artificial-para-toda-la-comunidad-universitaria"],
+        "defined": true
+      },
+      "U11": {
+        "classification_name": "Institutional Data Protection & Approved AI Platforms",
+        "domain": "Institutional & Administrative",
+        "summary": "The University of Seville's institutional AI platform (ia.us.es) meets the highest Spanish security and privacy standards (ENS categoría alta). Approved tools include Google Gemini, Microsoft Copilot Chat, and Notebook LM. The university's Decálogo de IA warns users about data privacy risks, noting that AI learns from personal, sensitive, and confidential data provided to it.",
+        "evidence": "\"La plataforma cumple con los m\u00e1s altos est\u00e1ndares de seguridad y privacidad (cuenta con el ENS categor\u00eda alta)\"; herramientas aprobadas: \"Gemini o Nano Banana Pro...Microsoft, como Copilot Chat... Gemini y Notebook LM\"; Dec\u00e1logo: \"cuidar los datos personales y confidenciales: la inteligencia artificial aprende de los datos existentes, incluidos datos personales, sensibles y confidenciales que se le proporcionan\" (ia.us.es)",
+        "sourceUrls": ["https://ia.us.es/"],
+        "defined": true
+      },
+      "U12": {
+        "classification_name": "University AI Governance & Strategy",
+        "domain": "Institutional & Administrative",
+        "summary": "The University of Seville considers AI a vital strategic objective and has established a multi-faceted AI governance framework. It operates the institutional AI portal (ia.us.es), a Decálogo for ethical AI use, and a Google-US AI Chair with 60+ interdisciplinary specialists. The US holds the first Master's degree in Law and Ethics of Artificial Intelligence in Spain, and organized its first Conferences on AI and University Teaching in November 2024.",
+        "evidence": "\"Para la Universidad de Sevilla, el compromiso con la inteligencia artificial es 'un objetivo estrat\u00e9gico vital'\"; \"C\u00e1tedra de Inteligencia Artificial Google-US\" con \"un grupo interdisciplinar de m\u00e1s de 60 especialistas\"; \"la US ofrece el primer m\u00e1ster en Espa\u00f1a en Derecho y \u00c9tica de la Inteligencia Artificial\" (us.es)",
+        "sourceUrls": ["https://ia.us.es/", "https://www.us.es/actualidad-de-la-us/inteligencia-artificial-para-toda-la-comunidad-universitaria"],
+        "defined": true
+      }
+    },
+    "definedCount": 9,
+    "policyCompleteness": 75,
+    "hasPolicy": true,
+    "domains": ["Academic Integrity", "Institutional & Administrative", "Research", "Teaching & Learning"]
   }
 ];
 

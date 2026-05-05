@@ -1,7 +1,7 @@
 // js/data.js — US University AI Policy Repository
 // Auto-generated from source data
 // Merged: 2026-04-14T08:26:23.561Z
-// Total universities: 450
+// Total universities: 451
 
 const universities = [
   {
@@ -60546,6 +60546,119 @@ const universities = [
     "country": "Spain",
     "type": "private",
     "website": "https://www.usj.es",
+    "categories": {
+      "U1": {
+        "classification_name": "Coursework & Assignments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U2": {
+        "classification_name": "Examinations & Assessments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U3": {
+        "classification_name": "Learning & Study Assistance",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U4": {
+        "classification_name": "Code Generation & Programming",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U5": {
+        "classification_name": "Research Writing & Manuscript Preparation",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U6": {
+        "classification_name": "Research Data & Analysis",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U7": {
+        "classification_name": "Research Ethics & Integrity",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U8": {
+        "classification_name": "Disclosure & Attribution Requirements",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U9": {
+        "classification_name": "Detection & Enforcement",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U10": {
+        "classification_name": "Faculty & Staff Use",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U11": {
+        "classification_name": "Institutional Data Protection & Approved AI Platforms",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U12": {
+        "classification_name": "University AI Governance & Strategy",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      }
+    },
+    "definedCount": 0,
+    "policyCompleteness": 0,
+    "hasPolicy": false,
+    "domains": []
+  }
+,
+  {
+    "id": "valencia-catholic-university-saint-vincent-martyr",
+    "name": "Valencia Catholic University Saint Vincent Martyr",
+    "lastVerified": "May 2026",
+    "state": "Valencia",
+    "stateCode": "VC",
+    "country": "Spain",
+    "type": "private",
+    "website": "https://www.ucv.es",
     "categories": {
       "U1": {
         "classification_name": "Coursework & Assignments",

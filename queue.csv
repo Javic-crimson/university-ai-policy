@@ -1,10 +1,10 @@
 university_name,status,processed_date,entries_added
-San Damaso Ecclesiastical University,,,
-San Jorge University,,,
-Valencia Catholic University Saint Vincent Martyr,,,
-University of Santiago de Compostela,,,
-University of Seville,,,
-University of Valencia,,,
+San Damaso Ecclesiastical University,no_policy,2026-05-05,0
+San Jorge University,no_policy,2026-05-05,0
+Valencia Catholic University Saint Vincent Martyr,no_policy,2026-05-05,0
+University of Santiago de Compostela,no_policy,2026-05-05,0
+University of Seville,done,2026-05-05,9
+University of Valencia,done,2026-05-05,8
 Valencian International University,,,
 Polytechnic University of Valencia,,,
 University of Valladolid,,,

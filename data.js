@@ -1,7 +1,7 @@
 // js/data.js — US University AI Policy Repository
 // Auto-generated from source data
 // Merged: 2026-04-14T08:26:23.561Z
-// Total universities: 448
+// Total universities: 454
 
 const universities = [
   {
@@ -60423,6 +60423,681 @@ const universities = [
     "domains": ["Academic Integrity", "Institutional & Administrative", "Research", "Teaching & Learning"]
   }
 
+,
+  {
+    "id": "san-damaso-ecclesiastical-university",
+    "name": "San Damaso Ecclesiastical University",
+    "lastVerified": "May 2026",
+    "state": "Madrid",
+    "stateCode": "MD",
+    "country": "Spain",
+    "type": "private",
+    "website": "https://www.sandamaso.es",
+    "categories": {
+      "U1": {
+        "classification_name": "Coursework & Assignments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U2": {
+        "classification_name": "Examinations & Assessments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U3": {
+        "classification_name": "Learning & Study Assistance",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U4": {
+        "classification_name": "Code Generation & Programming",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U5": {
+        "classification_name": "Research Writing & Manuscript Preparation",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U6": {
+        "classification_name": "Research Data & Analysis",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U7": {
+        "classification_name": "Research Ethics & Integrity",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U8": {
+        "classification_name": "Disclosure & Attribution Requirements",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U9": {
+        "classification_name": "Detection & Enforcement",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U10": {
+        "classification_name": "Faculty & Staff Use",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U11": {
+        "classification_name": "Institutional Data Protection & Approved AI Platforms",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U12": {
+        "classification_name": "University AI Governance & Strategy",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      }
+    },
+    "definedCount": 0,
+    "policyCompleteness": 0,
+    "hasPolicy": false,
+    "domains": []
+  }
+,
+  {
+    "id": "san-jorge-university",
+    "name": "San Jorge University",
+    "lastVerified": "May 2026",
+    "state": "Aragon",
+    "stateCode": "AR",
+    "country": "Spain",
+    "type": "private",
+    "website": "https://www.usj.es",
+    "categories": {
+      "U1": {
+        "classification_name": "Coursework & Assignments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U2": {
+        "classification_name": "Examinations & Assessments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U3": {
+        "classification_name": "Learning & Study Assistance",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U4": {
+        "classification_name": "Code Generation & Programming",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U5": {
+        "classification_name": "Research Writing & Manuscript Preparation",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U6": {
+        "classification_name": "Research Data & Analysis",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U7": {
+        "classification_name": "Research Ethics & Integrity",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U8": {
+        "classification_name": "Disclosure & Attribution Requirements",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U9": {
+        "classification_name": "Detection & Enforcement",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U10": {
+        "classification_name": "Faculty & Staff Use",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U11": {
+        "classification_name": "Institutional Data Protection & Approved AI Platforms",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U12": {
+        "classification_name": "University AI Governance & Strategy",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      }
+    },
+    "definedCount": 0,
+    "policyCompleteness": 0,
+    "hasPolicy": false,
+    "domains": []
+  }
+,
+  {
+    "id": "valencia-catholic-university-saint-vincent-martyr",
+    "name": "Valencia Catholic University Saint Vincent Martyr",
+    "lastVerified": "May 2026",
+    "state": "Valencia",
+    "stateCode": "VC",
+    "country": "Spain",
+    "type": "private",
+    "website": "https://www.ucv.es",
+    "categories": {
+      "U1": {
+        "classification_name": "Coursework & Assignments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U2": {
+        "classification_name": "Examinations & Assessments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U3": {
+        "classification_name": "Learning & Study Assistance",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U4": {
+        "classification_name": "Code Generation & Programming",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U5": {
+        "classification_name": "Research Writing & Manuscript Preparation",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U6": {
+        "classification_name": "Research Data & Analysis",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U7": {
+        "classification_name": "Research Ethics & Integrity",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U8": {
+        "classification_name": "Disclosure & Attribution Requirements",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U9": {
+        "classification_name": "Detection & Enforcement",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U10": {
+        "classification_name": "Faculty & Staff Use",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U11": {
+        "classification_name": "Institutional Data Protection & Approved AI Platforms",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U12": {
+        "classification_name": "University AI Governance & Strategy",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      }
+    },
+    "definedCount": 0,
+    "policyCompleteness": 0,
+    "hasPolicy": false,
+    "domains": []
+  }
+,
+  {
+    "id": "university-of-santiago-de-compostela",
+    "name": "University of Santiago de Compostela",
+    "lastVerified": "May 2026",
+    "state": "Galicia",
+    "stateCode": "ES-GA",
+    "type": "public",
+    "website": "https://www.usc.gal",
+    "categories": {
+      "U1": {
+        "classification_name": "Coursework & Assignments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U2": {
+        "classification_name": "Examinations & Assessments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U3": {
+        "classification_name": "Learning & Study Assistance",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U4": {
+        "classification_name": "Code Generation & Programming",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U5": {
+        "classification_name": "Research Writing & Manuscript Preparation",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U6": {
+        "classification_name": "Research Data & Analysis",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U7": {
+        "classification_name": "Research Ethics & Integrity",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U8": {
+        "classification_name": "Disclosure & Attribution Requirements",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U9": {
+        "classification_name": "Detection & Enforcement",
+        "domain": "Academic Integrity",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U10": {
+        "classification_name": "Faculty & Staff Use",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U11": {
+        "classification_name": "Institutional Data Protection & Approved AI Platforms",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U12": {
+        "classification_name": "University AI Governance & Strategy",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      }
+    },
+    "definedCount": 0,
+    "policyCompleteness": 0,
+    "hasPolicy": false,
+    "domains": []
+  }
+,
+  {
+    "id": "university-of-seville",
+    "name": "University of Seville",
+    "lastVerified": "May 2026",
+    "state": "Andalusia",
+    "stateCode": "ES-AN",
+    "type": "public",
+    "website": "https://www.us.es",
+    "categories": {
+      "U1": {
+        "classification_name": "Coursework & Assignments",
+        "domain": "Teaching & Learning",
+        "summary": "The University of Seville guides students to use AI as a supplementary tool in coursework rather than a replacement for their own intellectual work. The university library guide advises students to follow instructor-specific rules per course and to acquire competencies, not merely outsource tasks. Presenting AI-generated work as entirely one's own without disclosure may constitute academic fraud.",
+        "evidence": "\"adquirir competencias (no solo conocimientos) mediante su uso como apoyo al aprendizaje, respetando siempre las recomendaciones del profesorado en cuanto a normas y l\u00edmites establecidos para el uso de IA en cada asignatura\" (guiasbus.us.es/iatrabajo)",
+        "sourceUrls": ["https://guiasbus.us.es/iatrabajo", "https://guiasbus.us.es/ia"],
+        "defined": true
+      },
+      "U2": {
+        "classification_name": "Examinations & Assessments",
+        "domain": "Teaching & Learning",
+        "summary": "The University of Seville library provides dedicated guidance on using Turnitin for AI detection in submitted academic work, including Spanish-language AI writing detection. The university initially prohibited AI tools in exams in 2023, treating their use as equivalent to plagiarism. Current policy places responsibility on faculty to establish per-course rules on AI use in assessments.",
+        "evidence": "\"Inteligencia artificial y Turnitin | Biblioteca Universidad de Sevilla\" — dedicated BUS page on AI detection in academic submissions (bib.us.es/humanidades/en/node/823)",
+        "sourceUrls": ["https://bib.us.es/humanidades/en/node/823"],
+        "defined": true
+      },
+      "U3": {
+        "classification_name": "Learning & Study Assistance",
+        "domain": "Teaching & Learning",
+        "summary": "The University of Seville operates an institutional AI portal (ia.us.es) that provides access to approved generative AI tools for the entire university community, including students. Available tools include Google Gemini, Microsoft Copilot Chat, and Notebook LM. The platform includes prompt banks organized by user role (students, teaching, research, management) and 1-minute tutorial guides to help students maximize the tools for learning.",
+        "evidence": "\"potenciar el uso \u00e9tico de las herramientas de IA entre estudiantes, docentes y personal no acad\u00e9mico\"; \"banco de prompts o instrucciones para obtener los mejores resultados de las distintas herramientas de IA generativa. Estas \u00f3rdenes se agrupan seg\u00fan las funciones de sus usuarios y abarcan tareas propias de la docencia, la investigaci\u00f3n, la gesti\u00f3n y los estudiantes\" (ia.us.es)",
+        "sourceUrls": ["https://ia.us.es/"],
+        "defined": true
+      },
+      "U4": {
+        "classification_name": "Code Generation & Programming",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U5": {
+        "classification_name": "Research Writing & Manuscript Preparation",
+        "domain": "Research",
+        "summary": "The University of Seville's library guide for academic work (guiasbus.us.es/iatrabajo) provides guidance on ethical AI use in thesis work (TFG/TFM). Students must declare AI use following the AID (Artificial Intelligence Disclosure) framework. The Faculty of Philosophy issued a dedicated guide for AI use in final thesis work in 2025. Presenting AI-generated content as one's own without disclosure may constitute academic fraud under the Student Disciplinary Regulations.",
+        "evidence": "\"Para garantizar la integridad acad\u00e9mica, la ACRL recomienda ir m\u00e1s all\u00e1 de una simple cita bibliogr\u00e1fica cuando se usa Inteligencia Artificial, sugiriendo a\u00f1adir un anexo al final del trabajo siguiendo el marco AID (Artificial Intelligence Disclosure)\" (guiasbus.us.es/iatrabajo/uso); \"Gu\u00eda sobre el uso de la Inteligencia Artificial en tu TFE de Filosof\u00eda\" (2025 guide, filosofia.us.es)",
+        "sourceUrls": ["https://guiasbus.us.es/iatrabajo/uso", "https://guiasbus.us.es/iatrabajo", "https://filosofia.us.es/sites/filosofia/files/contenido/estudiantes/TFE/Guia_Uso_IA_TFG_Filosofia%202025.pdf"],
+        "defined": true
+      },
+      "U6": {
+        "classification_name": "Research Data & Analysis",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U7": {
+        "classification_name": "Research Ethics & Integrity",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U8": {
+        "classification_name": "Disclosure & Attribution Requirements",
+        "domain": "Academic Integrity",
+        "summary": "The University of Seville requires students to declare AI use transparently in academic submissions, going beyond simple citation. The library guide recommends the AID (Artificial Intelligence Disclosure) framework, requiring an annex specifying: the tool name and version, the purpose, the prompts provided, and how the output was incorporated. This applies to all generative AI tools used in academic work.",
+        "evidence": "\"Para garantizar la integridad acad\u00e9mica, la ACRL recomienda ir m\u00e1s all\u00e1 de una simple cita bibliogr\u00e1fica cuando se usa Inteligencia Artificial, sugiriendo a\u00f1adir un anexo al final del trabajo siguiendo el marco AID (Artificial Intelligence Disclosure)\" incluyendo: herramienta(s) utilizada(s) (nombre y versi\u00f3n, ej: ChatGPT-4, DeepL, Grammarly); prop\u00f3sito (ej: brainstorming, correcci\u00f3n de estilo, traducci\u00f3n); instrucciones (prompts) dadas a la IA; c\u00f3mo se us\u00f3 el resultado (guiasbus.us.es/iatrabajo/uso)",
+        "sourceUrls": ["https://guiasbus.us.es/iatrabajo/uso", "https://guiasbus.us.es/ia"],
+        "defined": true
+      },
+      "U9": {
+        "classification_name": "Detection & Enforcement",
+        "domain": "Academic Integrity",
+        "summary": "The University of Seville uses Turnitin for plagiarism and AI content detection, including AI writing detection for Spanish language submissions. Academic fraud involving AI-generated content in TFE/TFG may constitute a serious or very serious offense under university disciplinary regulations, potentially resulting in suspension. When detected in evaluated work, faculty must record it in the official assessment report.",
+        "evidence": "\"Inteligencia artificial y Turnitin | Biblioteca Universidad de Sevilla\" (dedicated BUS page); \"cuando se detecta plagio u otras pr\u00e1cticas contrarias a la integridad acad\u00e9mica en un TFE por los miembros del tribunal evaluador, \u00e9ste deber\u00e1 quedar explicitado en el informe razonado que acompa\u00f1e a la calificaci\u00f3n de suspenso\" (search summaries from official US normativas)",
+        "sourceUrls": ["https://bib.us.es/humanidades/en/node/823"],
+        "defined": true
+      },
+      "U10": {
+        "classification_name": "Faculty & Staff Use",
+        "domain": "Institutional & Administrative",
+        "summary": "The University of Seville's AI portal (ia.us.es) is designed for the entire university community including faculty (docentes) and non-academic staff. The platform provides approved AI tools with prompt banks organized by teaching, research, and management functions. The US, in partnership with Google through its AI Chair, offers free training courses to strengthen faculty AI competencies for ethical and effective use in teaching, research, and daily management.",
+        "evidence": "\"potenciar el uso \u00e9tico de las herramientas de IA entre estudiantes, docentes y personal no acad\u00e9mico\"; \"cursos de formaci\u00f3n gratuitos para fortalecer competencias en IA y promover el uso \u00e9tico y eficaz de esta tecnolog\u00eda, con la intenci\u00f3n de impulsar la innovaci\u00f3n en la docencia, la investigaci\u00f3n y la gesti\u00f3n cotidiana\" (us.es/actualidad)",
+        "sourceUrls": ["https://ia.us.es/", "https://www.us.es/actualidad-de-la-us/inteligencia-artificial-para-toda-la-comunidad-universitaria"],
+        "defined": true
+      },
+      "U11": {
+        "classification_name": "Institutional Data Protection & Approved AI Platforms",
+        "domain": "Institutional & Administrative",
+        "summary": "The University of Seville's institutional AI platform (ia.us.es) meets the highest Spanish security and privacy standards (ENS categoría alta). Approved tools include Google Gemini, Microsoft Copilot Chat, and Notebook LM. The university's Decálogo de IA warns users about data privacy risks, noting that AI learns from personal, sensitive, and confidential data provided to it.",
+        "evidence": "\"La plataforma cumple con los m\u00e1s altos est\u00e1ndares de seguridad y privacidad (cuenta con el ENS categor\u00eda alta)\"; herramientas aprobadas: \"Gemini o Nano Banana Pro...Microsoft, como Copilot Chat... Gemini y Notebook LM\"; Dec\u00e1logo: \"cuidar los datos personales y confidenciales: la inteligencia artificial aprende de los datos existentes, incluidos datos personales, sensibles y confidenciales que se le proporcionan\" (ia.us.es)",
+        "sourceUrls": ["https://ia.us.es/"],
+        "defined": true
+      },
+      "U12": {
+        "classification_name": "University AI Governance & Strategy",
+        "domain": "Institutional & Administrative",
+        "summary": "The University of Seville considers AI a vital strategic objective and has established a multi-faceted AI governance framework. It operates the institutional AI portal (ia.us.es), a Decálogo for ethical AI use, and a Google-US AI Chair with 60+ interdisciplinary specialists. The US holds the first Master's degree in Law and Ethics of Artificial Intelligence in Spain, and organized its first Conferences on AI and University Teaching in November 2024.",
+        "evidence": "\"Para la Universidad de Sevilla, el compromiso con la inteligencia artificial es 'un objetivo estrat\u00e9gico vital'\"; \"C\u00e1tedra de Inteligencia Artificial Google-US\" con \"un grupo interdisciplinar de m\u00e1s de 60 especialistas\"; \"la US ofrece el primer m\u00e1ster en Espa\u00f1a en Derecho y \u00c9tica de la Inteligencia Artificial\" (us.es)",
+        "sourceUrls": ["https://ia.us.es/", "https://www.us.es/actualidad-de-la-us/inteligencia-artificial-para-toda-la-comunidad-universitaria"],
+        "defined": true
+      }
+    },
+    "definedCount": 9,
+    "policyCompleteness": 75,
+    "hasPolicy": true,
+    "domains": ["Academic Integrity", "Institutional & Administrative", "Research", "Teaching & Learning"]
+  }
+,
+  {
+    "id": "university-of-valencia",
+    "name": "University of Valencia",
+    "lastVerified": "May 2026",
+    "state": "Valencia",
+    "stateCode": "ES-VC",
+    "type": "public",
+    "website": "https://www.uv.es",
+    "categories": {
+      "U1": {
+        "classification_name": "Coursework & Assignments",
+        "domain": "Teaching & Learning",
+        "summary": "The University of Valencia's AI use policy establishes that AI must be used as a support tool in academic work, not as a substitute for personal reasoning, reflection, or creativity. All AI use in coursework must respect academic integrity, equity, and authorship. Unauthorized, deceptive, or undeclared use of AI in academic work constitutes a serious violation subject to disciplinary consequences.",
+        "evidence": "\"Toda utilizaci\u00f3n de IA debe respetar los principios de integridad acad\u00e9mica, equidad y respeto a la autor\u00eda\"; \"La IA debe emplearse como herramienta de apoyo, no como sustituto del razonamiento, la reflexi\u00f3n y la creatividad personal\" (Pol\u00edtica de Uso de la Inteligencia Artificial, uv.es/arteweb)",
+        "sourceUrls": ["https://www.uv.es/arteweb/GU%C3%8DA%20DEL%20USO%20DE%20LA%20IA.pdf"],
+        "defined": true
+      },
+      "U2": {
+        "classification_name": "Examinations & Assessments",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U3": {
+        "classification_name": "Learning & Study Assistance",
+        "domain": "Teaching & Learning",
+        "summary": "The University of Valencia promotes equitable access to AI tools for all students, actively offering training programs on ChatGPT and AI for the entire university community including students and administrative staff. The policy commits to promoting equal access to AI tools, avoiding technological gaps among students. UV is also part of ValgrAI, the Valencian Graduate School and Research Network of Artificial Intelligence, coordinating AI training and research.",
+        "evidence": "\"Se promover\u00e1 el acceso igualitario a herramientas de IA, evitando generar brechas tecnol\u00f3gicas entre estudiantes\" (Pol\u00edtica de Uso de la IA, uv.es/arteweb); \"ChatGPT i Intel\u00b7lig\u00e8ncia Artificial: \u00fas de noves eines a personal PAS\" (uv.es lifelong learning service)",
+        "sourceUrls": ["https://www.uv.es/arteweb/GU%C3%8DA%20DEL%20USO%20DE%20LA%20IA.pdf", "https://valgrai.eu/en/"],
+        "defined": true
+      },
+      "U4": {
+        "classification_name": "Code Generation & Programming",
+        "domain": "Teaching & Learning",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U5": {
+        "classification_name": "Research Writing & Manuscript Preparation",
+        "domain": "Research",
+        "summary": "The University of Valencia offers a training program specifically for faculty on using AI to improve scientific article writing ('Ús de la IA a la millora de l'escriptura d'articles científics'), addressing quality, efficiency, and precision in academic writing and publication. A faculty training program on generative AI and academic/research integrity covers guidelines for AI use that respects academic and research integrity principles.",
+        "evidence": "Training program \"Ús de la IA a la millora de l'escriptura d'articles cient\u00edfics\" for faculty to learn \"como utilizar de manera efectiva herramientas basadas en IA para la escritura de art\u00edculos cient\u00edficos, para mejorar la calidad, la eficiencia y la precisi\u00f3n en los procesos de redacci\u00f3n, revisi\u00f3n y publicaci\u00f3n acad\u00e9mica\" (uv.es lifelong learning service)",
+        "sourceUrls": ["https://www.uv.es/uv-teaching/en/training-program/us-de-la-ia-a-la-millora-de-l-escriptura-d-articles-cientifics-1286213964422/PDIFormacio.html?id=1286418459555"],
+        "defined": true
+      },
+      "U6": {
+        "classification_name": "Research Data & Analysis",
+        "domain": "Research",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U7": {
+        "classification_name": "Research Ethics & Integrity",
+        "domain": "Research",
+        "summary": "The University of Valencia offers a training program on the ethical and regulatory framework for AI systems in the public sector and scientific research ('Marc ètic i normatiu dels sistemes d'intel·ligència artificial en el sector públic i la investigació científica'), covering European regulations. Additionally, a faculty training program on generative AI and academic/research integrity addresses the implications of AI on academic and research integrity.",
+        "evidence": "Training program \"Intel\u00b7lig\u00e8ncia Artificial Generativa: quan i com podem utilitzar-la respectant la integritat acad\u00e8mica i investigadora\" - \"Abordar las implicaciones de las aplicaciones de IA generativa en la integridad acad\u00e9mica e investigadora en la docencia e investigaci\u00f3n, ofreciendo pautas, herramientas y ejemplos\" (uv.es lifelong learning service)",
+        "sourceUrls": ["https://www.uv.es/uv-teaching/en/training-program/intel-ligencia-artificial-generativa-quan-i-com-podem-utilitzar-la-respectant-la-integritat-academica-i-investigadora-1286230098065/PDIFormacio.html?id=1286364994990"],
+        "defined": true
+      },
+      "U8": {
+        "classification_name": "Disclosure & Attribution Requirements",
+        "domain": "Academic Integrity",
+        "summary": "The University of Valencia's AI policy mandates that it is obligatory to indicate when and how AI has been used in academic work or teaching productions. Unauthorized, deceptive, or undeclared use of AI is classified as a serious academic integrity violation. Transparency is established as a core principle of AI use.",
+        "evidence": "\"Es obligatorio indicar cu\u00e1ndo y c\u00f3mo se ha utilizado IA en trabajos acad\u00e9micos o producciones docentes\"; \"El uso no autorizado, enga\u00f1oso o no declarado de herramientas de IA se considerar\u00e1 una infracci\u00f3n grave de la integridad acad\u00e9mica\" (Pol\u00edtica de Uso de la Inteligencia Artificial, uv.es/arteweb)",
+        "sourceUrls": ["https://www.uv.es/arteweb/GU%C3%8DA%20DEL%20USO%20DE%20LA%20IA.pdf"],
+        "defined": true
+      },
+      "U9": {
+        "classification_name": "Detection & Enforcement",
+        "domain": "Academic Integrity",
+        "summary": "The University of Valencia classifies unauthorized, deceptive, or undeclared AI use as a serious violation of academic integrity. Consequences are applied in accordance with the University's Evaluation Regulation (Reglamento de Evaluación) and the Coexistence and Discipline Regulation (Reglamento de Convivencia y Disciplina).",
+        "evidence": "\"El uso no autorizado, enga\u00f1oso o no declarado de herramientas de IA se considerar\u00e1 una infracci\u00f3n grave de la integridad acad\u00e9mica, con consecuencias que se aplicar\u00e1n conforme al Reglamento de Evaluaci\u00f3n y al Reglamento de Convivencia y Disciplina de la Universidad\" (Pol\u00edtica de Uso de la Inteligencia Artificial, uv.es/arteweb)",
+        "sourceUrls": ["https://www.uv.es/arteweb/GU%C3%8DA%20DEL%20USO%20DE%20LA%20IA.pdf"],
+        "defined": true
+      },
+      "U10": {
+        "classification_name": "Faculty & Staff Use",
+        "domain": "Institutional & Administrative",
+        "summary": "The University of Valencia provides multiple training programs for faculty (PDI) and administrative staff (PAS) on AI and ChatGPT use, including introductory courses, courses on AI for scientific writing, and courses on AI ethics and regulatory frameworks. The policy covers both teaching productions (for faculty) and administrative use (for staff).",
+        "evidence": "Multiple uv.es training programs including: \"ChatGPT i Intel\u00b7lig\u00e8ncia Artificial: \u00fas de noves eines en educaci\u00f3 universit\u00e0ria\" (for teaching staff); \"ChatGPT i Intel\u00b7lig\u00e8ncia Artificial: \u00fas de noves eines a personal PAS\" (for administrative staff); \"Introducci\u00f3 a la Intel\u00b7lig\u00e8ncia Artificial\" (for both)",
+        "sourceUrls": ["https://www.uv.es/uvweb/lifelong-learning-service-educational-innovation/en/training-program/chatgpt-i-intel-ligencia-artificial-us-de-noves-eines-en-educacio-universitaria-1286213964422/PDIFormacio.html?id=1286323197457", "https://www.uv.es/uvweb/lifelong-learning-service-educational-innovation/en/training-program/chatgpt-i-intel-ligencia-artificial-us-de-noves-eines-a-personal-pas-1286213964422/PDIFormacio.html?id=1286323589666"],
+        "defined": true
+      },
+      "U11": {
+        "classification_name": "Institutional Data Protection & Approved AI Platforms",
+        "domain": "Institutional & Administrative",
+        "summary": "not defined",
+        "evidence": "not defined",
+        "sourceUrls": [],
+        "defined": false
+      },
+      "U12": {
+        "classification_name": "University AI Governance & Strategy",
+        "domain": "Institutional & Administrative",
+        "summary": "The University of Valencia participates in ValgrAI (Valencian Graduate School and Research Network of Artificial Intelligence), a non-profit foundation integrating the Generalitat Valenciana, industry, and four Valencian public universities to coordinate AI training and research. UV hosts the Chair of Artificial Intelligence and Information Visualization (Cátedra de Intel·ligència Artificial i Visualització d'Informació) and has joined the International Doctoral Academy in Artificial Intelligence.",
+        "evidence": "\"valgrAI – Valencian Graduate School and Research Network of Artificial Intelligence\" (valgrai.eu); \"C\u00e0tedra de Intel\u00b7lig\u00e8ncia Artificial i Visualitzaci\u00f3 d'Informaci\u00f3\" (iavis.uv.es); \"La Universitat de Val\u00e8ncia s'incorpora a l'Acad\u00e8mia Internacional de Doctorat en Intel\u00b7lig\u00e8ncia Artificial\" (uv.es)",
+        "sourceUrls": ["https://valgrai.eu/en/", "https://iavis.uv.es/"],
+        "defined": true
+      }
+    },
+    "definedCount": 8,
+    "policyCompleteness": 67,
+    "hasPolicy": true,
+    "domains": ["Academic Integrity", "Institutional & Administrative", "Research", "Teaching & Learning"]
+  }
 ];
 
 // Make available globally
